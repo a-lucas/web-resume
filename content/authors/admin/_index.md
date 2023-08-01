@@ -1,10 +1,10 @@
 ---
 # Display name
-title: A. Lucas
+title: Antony L.
 
 # Full name (for SEO)
-first_name: A.
-last_name: Lucas
+first_name: Antony
+last_name: L,
 
 # Status emoji
 status:
