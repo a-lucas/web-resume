@@ -1,0 +1,48 @@
+
+
+.section-heading {
+    h1, h2, h3, h4, h5, h6 {
+        padding-bottom: 2rem;
+    }
+}
+
+.dark {
+    h1,  h2,  h3,  h4,  h5,  h6 {
+        color: yellow ;
+    }
+    #profile {
+        h2 {
+            color: yellowgreen !important;
+        }
+          h3,  h4,  h5,  h6 {
+            color: white
+        }
+    }
+    .experience {
+        .exp-title {
+            font-weight: bold !important;
+            color: yellowgreen !important        
+        }
+        .exp-company, .article-metadata {
+            color: yellow !important        
+        }
+    }
+
+    .article-title {
+        a {
+            font-weight: bold !important;
+            color: yellowgreen !important        
+        }
+    }
+
+    .navbar-brand  {
+        color: yellowgreen !important        
+    }
+    
+    blockquote, blockquote  * {
+        color: yellow;
+        font-size: 1.2 rem;
+        line-height: 1.5 rem;
+        background: black !important;
+    }
+}
