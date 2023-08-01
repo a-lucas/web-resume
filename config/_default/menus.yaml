@@ -27,7 +27,7 @@ main:
     weight: 70
 
 # Link to a PDF of your resume/CV from the menu.
-# To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.
+# To enable, copy your resume/CV to `static/uploads/antony_lucas.pdf` and uncomment the lines below.
 #  - name: CV
-#    url: uploads/resume.pdf
+#    url: uploads/antony_lucas.pdf
 #    weight: 70
