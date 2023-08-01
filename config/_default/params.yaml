@@ -6,7 +6,7 @@
 # Appearance
 
 appearance:
-  theme_day: forest
+  #theme_day: forest
   theme_night: forest
   font: cyberpunk
   font_size: M
@@ -18,7 +18,7 @@ marketing:
     site_type: Person
     local_business_type: ''
     org_name: ''
-    description: 'Antony Pond is a talented Web engineer with a vision for the future.'    
+    description: 'Antony Pond is a talented Web engineer with a vision for the future.'
   analytics:
     google_analytics: ''
     baidu_tongji: ''
